@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/countries-react-app/static/css/main.94995bed.chunk.css",
+    "main.js": "/countries-react-app/static/js/main.25b43f92.chunk.js",
+    "main.js.map": "/countries-react-app/static/js/main.25b43f92.chunk.js.map",
+    "runtime-main.js": "/countries-react-app/static/js/runtime-main.8d60ed0c.js",
+    "runtime-main.js.map": "/countries-react-app/static/js/runtime-main.8d60ed0c.js.map",
+    "static/js/2.8eda046d.chunk.js": "/countries-react-app/static/js/2.8eda046d.chunk.js",
+    "static/js/2.8eda046d.chunk.js.map": "/countries-react-app/static/js/2.8eda046d.chunk.js.map",
+    "index.html": "/countries-react-app/index.html",
+    "precache-manifest.a917deee8970cf8d2be60eb88a927a19.js": "/countries-react-app/precache-manifest.a917deee8970cf8d2be60eb88a927a19.js",
+    "service-worker.js": "/countries-react-app/service-worker.js",
+    "static/css/main.94995bed.chunk.css.map": "/countries-react-app/static/css/main.94995bed.chunk.css.map",
+    "static/js/2.8eda046d.chunk.js.LICENSE.txt": "/countries-react-app/static/js/2.8eda046d.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/countries-react-app/static/media/logo.9573c3b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d60ed0c.js",
+    "static/js/2.8eda046d.chunk.js",
+    "static/css/main.94995bed.chunk.css",
+    "static/js/main.25b43f92.chunk.js"
+  ]
+}
