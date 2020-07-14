@@ -4,13 +4,13 @@ import { CountryItem } from '../CountryItem';
 import { Spinner } from '../Spinner';
 
 export const CountryGrid = ({ countries, loading }) => {
-	return loading ? (
-		<Spinner />
-	) : (
-		<section className="cards">
-			{countries.map((country) => (
-				<CountryItem key={country.numericCode} data={country} />
-			))}
-		</section>
-	);
+  return loading ? (
+    <Spinner />
+  ) : (
+    <section className="cards">
+      {countries.map((country) => (
+        <CountryItem key={country.numericCode} data={country} />
+      ))}
+    </section>
+  );
 };
